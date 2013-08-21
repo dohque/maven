@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ru.pilin.redis.runner</groupId>
+  <artifactId>redis-runner</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130821053205</lastUpdated>
+  </versioning>
+</metadata>
